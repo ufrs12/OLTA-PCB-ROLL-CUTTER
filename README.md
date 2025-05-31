@@ -1,5 +1,4 @@
 # OLTA-PCB-ROLL-CUTTER
-## Общие сведения
 <p align="center">
  <img width="700px" src="src/1.jpg" alt="qr"/>
 </p>
@@ -40,4 +39,17 @@
 3d-модель опор задней и передней бабки
 <p align="center">
  <img width="400px" src="src/support.jpg" alt="qr"/>
+</p>
+Дополнительные фотографии:  
+Задняя бабка
+<p align="center">
+ <img width="400px" src="src/5.jpg" alt="qr"/>
+</p>
+Привод передней бабки
+<p align="center">
+ <img width="400px" src="src/4.jpg" alt="qr"/>
+</p>
+Передняя бабка
+<p align="center">
+ <img width="400px" src="src/6.jpg" alt="qr"/>
 </p>
