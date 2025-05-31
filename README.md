@@ -40,7 +40,7 @@
 <p align="center">
  <img width="400px" src="src/support.jpg" alt="qr"/>
 </p>
-Дополнительные фотографии:  
+Дополнительные фотографии:   
 Задняя бабка
 <p align="center">
  <img width="400px" src="src/5.jpg" alt="qr"/>
