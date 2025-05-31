@@ -36,7 +36,7 @@
  <img width="400px" src="src/cutter.jpg" alt="qr"/>
 </p>
 
-3d- опор задней и передней бабки
+3d-модель опор задней и передней бабки
 <p align="center">
  <img width="400px" src="src/support.jpg" alt="qr"/>
 </p>
